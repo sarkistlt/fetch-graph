@@ -1,6 +1,6 @@
 {
   "name": "fetch-graph",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple implementation of \"fetch\" for GraphQL API, no polyfills, no dependencies",
   "main": "lib/index.js",
   "scripts": {
