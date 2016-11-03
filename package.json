@@ -1,0 +1,40 @@
+{
+  "name": "fetch-graph",
+  "version": "1.0.1",
+  "description": "Simple implementation of \"fetch\" for GraphQL API.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sarkistlt/fetch-graph.git"
+  },
+  "keywords": [
+    "react",
+    "graphql",
+    "graphql",
+    "GraphQL",
+    "fetch",
+    "fetch graphql",
+    "graphql-fetch",
+    "graphQL",
+    "query",
+    "mutation"
+  ],
+  "author": {
+    "name": "Sarkis Arutiunian (sarkis.tlt@gmail.com)"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarkistlt/fetch-graph/issues"
+  },
+  "homepage": "https://github.com/sarkistlt/fetch-graph#readme",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-preset-stage-1": "^6.16.0"
+  }
+}
