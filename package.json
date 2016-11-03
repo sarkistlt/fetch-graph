@@ -1,7 +1,7 @@
 {
   "name": "fetch-graph",
-  "version": "1.0.1",
-  "description": "Simple implementation of \"fetch\" for GraphQL API.",
+  "version": "1.0.2",
+  "description": "Simple implementation of \"fetch\" for GraphQL API, no polyfills, no dependencies",
   "main": "lib/index.js",
   "scripts": {
     "build": "babel src --out-dir lib",

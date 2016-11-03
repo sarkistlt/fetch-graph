@@ -1,5 +1,6 @@
 Simple implementation of "fetch" for GraphQL API. 
 Module use vanilla javaScript 'XMLHttpRequest', so it will work everywhere.
+No polyfills, No dependencies, just 1kb simple function.
 
 Usage pretty similar to standard "fetch". 
 
