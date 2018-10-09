@@ -36,7 +36,7 @@ variables = {id: '12345'};
 
 fetchGraph('/graphql', request, variables)
             .then(res => console.log(res))
-            .catch(err => console.log(`${request} error: ${err});
+            .catch(console.error);
             
 /* result
 {
